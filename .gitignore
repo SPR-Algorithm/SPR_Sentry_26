@@ -6,5 +6,5 @@ log/
 *.pcd
 *.pdf
 *.pgm
-.vscode/settings.json
-.gitignore
+.vscode
+
