@@ -8,3 +8,6 @@ txt/
 *.pcd
 *.pdf
 ARCHITECTURE.html
+/*.pgm
+/*.yaml
+/*.jpeg
